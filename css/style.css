@@ -250,8 +250,10 @@ header.sticky{
 }
 .layer p{
     color: black;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     line-height: 1.8;
+    text-align: justify;
+    word-spacing: -2px;
 }
 .layer i{
     color: var(--main-color);
