@@ -348,6 +348,7 @@ header.sticky{
     opacity: 1;
     visibility: visible;
     border: 2px solid var(--main-color);
+    border-radius: 8px;
 }
 .contact{
     background:var(--second-bg-color);
